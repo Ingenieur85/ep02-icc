@@ -1,7 +1,5 @@
 # EP02 - Introdução à Computação Científica
-Feito por Fabiano A. de Sá Filho
 
-GRR: 20223831
 
 09/08/2024
 
